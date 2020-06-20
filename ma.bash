@@ -12,4 +12,5 @@ _AT_ 473790228/CustomFastScrollViewDemo beab2c37205db68b870e9046025d865163bd5dd8
 _AT_ han1202012/WheelViewDemo 456d577edaf1a3ddc5d28148315949778db146a1
 _AT_ nolanlawson/CustomFastScrollViewDemo beab2c37205db68b870e9046025d865163bd5dd8
 _AT_ romannurik/Android-SwipeToDismiss ecf1e51af2b1f400605b8a3786eed6944dbfbcda
+_AT_ twitter-university/AudioRecorderDemo af8033040e06b556ad52441b4323174f769fb1a7
 # ma.bash OEF
