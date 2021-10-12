@@ -1,5 +1,5 @@
-#!/usr/bin/env bash 
-# Copyright 2019-2020 (c) all rights reserved by BuildAPKs; see LICENSE 
+#!/usr/bin/env bash
+# Copyright 2019-2021 (c) all rights reserved
 # https://buildapks.github.io
 ################################################################################
 set -Eeuo pipefail
@@ -10,6 +10,7 @@ cd "$JDR"
 _AT_ 473790228/BlurEffectForAndroidDesign 18565cc259b6ddc6099a63146657db14d70e426b
 _AT_ 473790228/CustomFastScrollViewDemo beab2c37205db68b870e9046025d865163bd5dd8
 _AT_ aquarius29/sound_recorder 0f289961d7d4aed7ac5067e0fe3fb7f557bf13bd
+_AT_ axxapy/android.tools.app-ops 00c4bb13569e63c1c3a02f28894285d355290b64
 _AT_ benraziel/sketch-recorder bc509daa3fdb2cfede2ff753b9d8166491c1ce87
 _AT_ chenupt/BezierDemo 7896e9e3755c5549a8ae5b21d4992aa68acf2d26
 _AT_ cyrilmottier/ListViewTipsAndTricks 425e1ddc0e3d1a94f45ae1a21414c485481610c6
@@ -20,4 +21,4 @@ _AT_ romannurik/Android-SwipeToDismiss ecf1e51af2b1f400605b8a3786eed6944dbfbcda
 _AT_ ronanreilly/sales-app 949028202dffee50c7bf99074dc43af6f5e7b2b3
 _AT_ twitter-university/AudioRecorderDemo af8033040e06b556ad52441b4323174f769fb1a7
 _AT_ twitter-university/AudioTrackPlayerDemo 67b64be031fd1f0ee4e810dcc22f70866a9cd22b
-# ma.bash OEF
+# BuildAPKs/buildAPKs.demos/ma.bash OEF
