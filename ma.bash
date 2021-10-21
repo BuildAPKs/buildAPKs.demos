@@ -9,6 +9,7 @@ cd "$JDR"
 # _AT_ username/repository commit
 _AT_ 473790228/BlurEffectForAndroidDesign 18565cc259b6ddc6099a63146657db14d70e426b
 _AT_ 473790228/CustomFastScrollViewDemo beab2c37205db68b870e9046025d865163bd5dd8
+_AT_ andre-rodrigues/android-VideoRecorder 51ab9c33c348d31ca8b89e57c98421708fbea8c3
 _AT_ aquarius29/sound_recorder 0f289961d7d4aed7ac5067e0fe3fb7f557bf13bd
 _AT_ axxapy/android.tools.app-ops 00c4bb13569e63c1c3a02f28894285d355290b64
 _AT_ benraziel/sketch-recorder bc509daa3fdb2cfede2ff753b9d8166491c1ce87
