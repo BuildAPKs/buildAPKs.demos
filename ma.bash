@@ -23,4 +23,5 @@ _AT_ romannurik/Android-SwipeToDismiss ecf1e51af2b1f400605b8a3786eed6944dbfbcda
 _AT_ ronanreilly/sales-app 949028202dffee50c7bf99074dc43af6f5e7b2b3
 _AT_ twitter-university/AudioRecorderDemo af8033040e06b556ad52441b4323174f769fb1a7
 _AT_ twitter-university/AudioTrackPlayerDemo 67b64be031fd1f0ee4e810dcc22f70866a9cd22b
+_AT_ yinglovezhuzhu/VideoRecorder 11db635ef2efcfe75879721a660cb915490c7914
 # BuildAPKs/buildAPKs.demos/ma.bash OEF
